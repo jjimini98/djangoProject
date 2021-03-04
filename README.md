@@ -1,4 +1,4 @@
-# djangoProject
+# DjangoProject
 
 
 
